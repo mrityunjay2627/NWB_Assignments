@@ -1,0 +1,16 @@
+h2{
+    padding: 0px;
+}
+
+.Letter{
+    border: 3px solid black;
+    background-color: palevioletred;
+    position: sticky;
+    top: 25px;
+    font-size: 2.5rem;
+    padding: 0px;
+}
+
+.Num{
+    border: 2px solid black;
+}
